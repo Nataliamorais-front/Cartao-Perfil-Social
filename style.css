@@ -26,9 +26,9 @@ img{
 
 main{
     background-color: hsla(0, 0%, 20%, 0.596);
-    width: 50%;
-    max-width: 320px;
-    min-width: 300px;
+    width: 100%;
+    max-width: 400px;
+    min-width: 250px;
     padding: 20px;
 
     
