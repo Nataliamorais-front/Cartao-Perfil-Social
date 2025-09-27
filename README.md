@@ -1,1 +1,3 @@
-Desafio inspirado direto do site Frontmentor - para praticar. 
+Desafio recriado através da proposta do site Frontmentor.
+Utilizei - HTML para criar a semantica a pagina 
+CSS para estilização e responsividade. Não utilizei flexbox, @media Queries pois ainda não aprendi no curso que estou realizando. 
